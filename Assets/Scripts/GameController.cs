@@ -1,7 +1,5 @@
-using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.UIElements;
 
 public class GameController : MonoBehaviour
 {
@@ -21,9 +19,6 @@ public class GameController : MonoBehaviour
     public AudioClip jumpHighAudio;
     public AudioClip stageClearAudio;
     public AudioClip marioDiesAudio;
-
-
-    public AudioClip Faszkodas;
 
     public GameObject pauseCanvas;
 

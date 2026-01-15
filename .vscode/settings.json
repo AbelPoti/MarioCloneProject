@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Mario.sln"
+    "dotnet.defaultSolution": "Csharp-projekt.sln"
 }
