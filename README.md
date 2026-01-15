@@ -9,7 +9,8 @@ A small Unity clone of Super Mario Bros, aimed to explore game development and p
 
 ## Screenshots
 
-TBA
+![Gameplay screenshot 1](Screenshots/Screenshot_stomp.png)
+![Gameplay screenshot 2](Screenshots/Screenshot_turtle_shell.png)
 
 ## Controls
 - **A&D** or **Left&Right Arrow** - Move
